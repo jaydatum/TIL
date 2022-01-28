@@ -86,11 +86,11 @@ $ git merge branch1
 -  merge하는 두 브랜치에서 `같은 파일의 같은 부분`을 수정한 경우 충돌(conflict) 발생
 - 사용자가 직접 내용을 선택해서 conflict 해결
 
-![merge_conflict2](../images/TIL day 3/merge_conflict2-16433263151972.png)![img](../images/TIL day 3/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fb31206af-b48f-4193-8b5f-f9c068f8c0be%2F.png)
+![merge_conflict2](/images/merge_conflict2-16433263151972.png)![img](../images/TIL day 3/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fb31206af-b48f-4193-8b5f-f9c068f8c0be%2F.png)
 
 ## 3. Pull Request : 실제 협업 시 (Pull only)
 
-![pull_request](../images/TIL day 3/pull_request-16433265051173.png)
+![pull_request](/images/pull_request-16433265051173.png)
 
 
 
