@@ -8,12 +8,13 @@
 
 ### 1.1 Branch란?
 
-![branch](../images/TIL day 3/branch-16432992470501.png)
+![branch](https://user-images.githubusercontent.com/98443610/151463490-4ba71533-7ba9-4b5d-8b90-36f563be33b4.png)
+
 
 - 여러 갈래로 작업 공간을 나누어 **<u>독립적으로 작업</u>**할 수 있는 Git의 도구 
 - 장점
-  1.  브랜치는 독립공간이므로 원본(master)에 대해 안전함
-  2.  하나의 작업이 곧 하나의 브랜치이므로 체계적인 개발 가능
+  1. 브랜치는 독립공간이므로 원본(master)에 대해 안전함
+  2. 하나의 작업이 곧 하나의 브랜치이므로 체계적인 개발 가능
   3. Git은 브랜치를 만드는 속도가 빠르고 용량이 적게든다.
 
 ### 1.2 git branch
@@ -86,11 +87,13 @@ $ git merge branch1
 -  merge하는 두 브랜치에서 `같은 파일의 같은 부분`을 수정한 경우 충돌(conflict) 발생
 - 사용자가 직접 내용을 선택해서 conflict 해결
 
-![merge_conflict2](/images/merge_conflict2-16433263151972.png)![img](../images/TIL day 3/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fb31206af-b48f-4193-8b5f-f9c068f8c0be%2F.png)
+![merge_conflict2](https://user-images.githubusercontent.com/98443610/151463589-51de88cf-b0d4-4e6a-9f23-ac24cf0f2e82.png)
+
 
 ## 3. Pull Request : 실제 협업 시 (Pull only)
 
-![pull_request](/images/pull_request-16433265051173.png)
+![pull_request](https://user-images.githubusercontent.com/98443610/151463674-ba0a9144-05bd-4a1c-825e-47902263ef72.png)
+
 
 
 
