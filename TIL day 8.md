@@ -11,7 +11,7 @@
 
 - 오차행렬(Confusion Matrix)
 
-  - ![오차행렬](../images/TIL day 8/confusionMatrxiUpdated.jpg)
+  - ![오차행렬]([../images/TIL day 8/confusionMatrxiUpdated.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmanisha-sirsat.blogspot.com%2F2019%2F04%2Fconfusion-matrix.html&psig=AOvVaw1mMApC5b_XEwGFHYd2wRpp&ust=1643876336805000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPiU7NzK4PUCFQAAAAAdAAAAABAD))
   - 이진 분류의 예측 오류와 오류의 유형을 상세히 나타냄
 
 - 정확도와 정밀도 : 데이터 셋의 예측 성능에 중점을 둔 평가지표
